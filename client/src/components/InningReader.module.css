@@ -1,0 +1,10 @@
+.InningReader {
+  align-items: right;
+  background-color: tan;
+}
+
+.BallStrikeCounter {
+  padding-right: 5px;
+  background-color: white;
+  right: 150px;
+}

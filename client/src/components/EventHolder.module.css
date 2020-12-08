@@ -1,0 +1,46 @@
+.Title {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+.Subtitle {
+  text-align: center;
+  background-color: tan;
+  color: black;
+}
+
+.HitterTitle {
+  text-align: center;
+}
+
+.LineupConstraint {
+  padding: 5px;
+}
+
+.MyTeamContainer {
+  border-style: solid;
+  border-color: black;
+  float: left;
+}
+
+.MyLogoHolder {
+  float: left;
+}
+
+.OtherLogoHolder {
+  float: right;
+}
+
+.OtherTeamContainer {
+  border-style: solid;
+  border-color: black;
+  float: right;
+}
+
+.TopContainer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 50px;
+  padding-right: 50px
+}

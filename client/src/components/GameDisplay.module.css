@@ -1,0 +1,46 @@
+.Title {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+.LeanLeft {
+  float: left;
+}
+
+.Instructions {
+  text-align: center;
+}
+
+.LeanRight {
+  float: right;
+}
+
+.Line {
+  background-color: green;
+  margin: auto;
+}
+
+.LineItem {
+  color: white;
+  padding-right: 5px;
+}
+
+.SmallSection {
+  float: left;
+  padding-right: 10px;
+}
+
+.InningReader {
+  float: right;
+}
+
+.TeamTitle {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.LineupHolder {
+  color: black;
+}

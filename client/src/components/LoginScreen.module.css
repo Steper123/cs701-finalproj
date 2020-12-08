@@ -1,0 +1,31 @@
+.LoginScreen {
+  text-align: center;
+  background-color: blue;
+}
+
+.Message{
+  background-color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.MessageContainer{
+  background-color: tan;
+  display: flex;
+  text-align: center;
+  padding: 20px 0;
+  margin: auto;
+}
+
+.ButtonContainer{
+  background-color: black;
+  display: flex;
+  text-align: center;
+  padding: 20px 0;
+  margin: auto;
+}
+
+.Error{
+  color: red;
+  text-align: center;
+}

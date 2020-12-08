@@ -1,0 +1,9 @@
+.TeamAccessHolder {
+  border-style: solid;
+  border-color: green;
+  background-color: white;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}

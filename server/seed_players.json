@@ -1,0 +1,199 @@
+[
+  {
+    "teamId": 1,
+    "name": "Michael Farinelli",
+    "height": 70,
+    "weight": 170,
+    "position": 1
+  },
+  {
+    "teamId": 1,
+    "name": "Jack Stolper",
+    "height": 71,
+    "weight": 185,
+    "position": 3
+  },
+  {
+    "teamId": 1,
+    "name": "Jackson Atwood",
+    "height": 75,
+    "weight": 205,
+    "position": 1
+  },
+  {
+    "teamId": 1,
+    "name": "Alex Rosario",
+    "height": 70,
+    "weight": 210,
+    "position": 1
+  },
+  {
+    "teamId": 1,
+    "name": "Andrew Frame",
+    "height": 69,
+    "weight": 155,
+    "position": 7
+  },
+  {
+    "teamId": 1,
+    "name": "Evan Stewart",
+    "height": 73,
+    "weight": 190,
+    "position": 1
+  },
+  {
+    "teamId": 1,
+    "name": "Freddy Mosier",
+    "height": 70,
+    "weight": 180,
+    "position": 2
+  },
+  {
+    "teamId": 1,
+    "name": "Jake Dianno",
+    "height": 71,
+    "weight": 190,
+    "position": 2
+  },
+  {
+    "teamId": 1,
+    "name": "Ryan Hanrahan",
+    "height": 77,
+    "weight": 230,
+    "position": 3
+  },
+  {
+    "teamId": 1,
+    "name": "Zip Malley",
+    "height": 69,
+    "weight": 150,
+    "position": 4
+  },
+  {
+    "teamId": 1,
+    "name": "Andrew Gough",
+    "height": 70,
+    "weight": 185,
+    "position": 6
+  },
+  {
+    "teamId": 1,
+    "name": "Chris Borter",
+    "height": 72,
+    "weight": 180,
+    "position": 5
+  },
+  {
+    "teamId": 1,
+    "name": "Beau Root",
+    "height": 74,
+    "weight": 175,
+    "position": 7
+  },
+  {
+    "teamId": 1,
+    "name": "Henry Strmecki",
+    "height": 70,
+    "weight": 190,
+    "position": 8
+  },
+  {
+    "teamId": 1,
+    "name": "Alec Ritch",
+    "height": 74,
+    "weight": 200,
+    "position": 9
+  },
+  {
+    "teamId": 2,
+    "name": "Bo Peponis",
+    "height": 72,
+    "weight": 195,
+    "position": 1
+  },
+  {
+    "teamId": 2,
+    "name": "Matt Duquette",
+    "height": 75,
+    "weight": 210,
+    "position": 3
+  },
+  {
+    "teamId": 2,
+    "name": "Cole Whitehouse",
+    "height": 72,
+    "weight": 175,
+    "position": 2
+  },
+  {
+    "teamId": 2,
+    "name": "Eric Pappas",
+    "height": 70,
+    "weight": 165,
+    "position": 4
+  },
+  {
+    "teamId": 2,
+    "name": "Ryan Young",
+    "height": 70,
+    "weight": 170,
+    "position": 6
+  },
+  {
+    "teamId": 2,
+    "name": "Jakob Cohn",
+    "height": 75,
+    "weight": 200,
+    "position": 5
+  },
+  {
+    "teamId": 2,
+    "name": "Erik Mini",
+    "height": 72,
+    "weight": 190,
+    "position": 7
+  },
+  {
+    "teamId": 2,
+    "name": "Matthew Brown",
+    "height": 73,
+    "weight": 190,
+    "position": 8
+  },
+  {
+    "teamId": 2,
+    "name": "Jon Singleton",
+    "height": 70,
+    "weight": 170,
+    "position": 9
+  },
+  {
+    "teamId": 2,
+    "name": "Sam Rohrer",
+    "height": 73,
+    "weight": 185,
+    "position": 1
+  },
+  {
+    "teamId": 2,
+    "name": "Jeremy Irzyk",
+    "height": 68,
+    "weight": 180,
+    "position": 4
+  },
+  {
+    "teamId": 2,
+    "name": "Phillip Barnett",
+    "height": 70,
+    "weight": 190,
+    "position": 5
+  },
+  {
+    "teamId": 2,
+    "name": "Billy Shea",
+    "height": 73,
+    "weight": 180,
+    "position": 10
+  }
+
+]
